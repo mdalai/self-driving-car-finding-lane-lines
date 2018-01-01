@@ -27,7 +27,6 @@ In order to draw a single line on the left and right lanes, I modified the draw_
  - Get the two points for left lane line and two points for the right lane line; 
  - draw lines with these points in the end;
 
-![alt text][Output]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
